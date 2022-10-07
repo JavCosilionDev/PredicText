@@ -1,0 +1,9 @@
+Resultado de analisis:
+
+Presicion Total: %96
+Politica:   %0
+Deportes:   %0
+Naturaleza: %96
+Tecnologia: %0
+Religion:   %0
+Economia:   %0

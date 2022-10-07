@@ -1,0 +1,1 @@
+sistema operativo Conjunto de ordenes y programas que controlan los procesos basicos de una computadora y permiten el funcionamiento de otros programas. el sistema operativo de la computadora es MS-DOS

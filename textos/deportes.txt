@@ -1,0 +1,9 @@
+tipos de deportes
+deportes de combate. disciplinas en las que dos contrincantes luchan cuerpo a cuerpo a partir de ciertas reglas. por ejemplo: boxeo, taekwondo, esgrima, judo, karate, kick boxing, lucha libre, artes marciales mixtas y jiu-jitsu.
+deportes de pelota. disciplinas en las que el elemento esencial es una pelota y se juega de a grupos o individual. por ejemplo: futbol, rugby, voleibol, baloncesto, tenis, paddle, golf, handball, ping-pong, squash, cricket, hockey, beisbol, billar y lacrosse.
+deportes de atletismo. disciplinas en las que los competidores se miden en pruebas de fuerza, velocidad, lanzamiento y salto. por ejemplo: carrera, salto con vallas, salto con garrocha, salto en alto, salto en largo, lanzamiento de bala, lanzamiento de jabalina, lanzamiento de disco y lanzamiento de martillo
+deportes acuaticos. se realizan sobre o en el agua. por ejemplo: natacion, surf, remo, windsurf, kitesurf, vela, buceo, kayak, waterpolo, esqui acuatico, bodyboard y rafting.
+deportes de montana. se realizan en terrenos montanosos. por ejemplo: alpinismo, senderismo, esqui, snowboard, ciclismo de montana, tirolesa y escalada.
+deportes de motor. se realizan sobre un vehiculo motorizado. por ejemplo: automovilismo (formula 1, rally), motociclismo (motociclismo de velocidad, motocross), motonautica y aeronautica.
+deportes ecuestres. se realizan sobre animales. por ejemplo: turf, polo, pato, cross-country, equitacion.
+poder poder poder poder poder
