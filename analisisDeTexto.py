@@ -54,11 +54,12 @@ class AnalizarTexto(QWidget):
 
     #abrir y leer el archivo de texto
     def abrir_archivo(ruta):
-        with open(ruta, 'r') as archivoTexto:
+        with open(ruta, 'r', encoding='utf-8') as archivoTexto:
             texto = archivoTexto.read()
         textoLimpio = AnalizarTexto.limpiar_texto_simbolos(texto)
         textoFiltrado = AnalizarTexto.tokenizar_texto(textoLimpio)
         return textoFiltrado
+
 
     #tokenizar el texto
     def tokenizar_texto(texto):
